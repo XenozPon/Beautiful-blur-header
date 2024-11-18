@@ -8,7 +8,7 @@ text-decoration: none;
 }
 body{
 min-height: 100svh;
-background: url(img/IMG.png);
+background: url(img/image.png);
 background-size: cover;
 display: flex; 
 justify-content: center; 
